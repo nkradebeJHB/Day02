@@ -6,7 +6,7 @@
 /*   By: nkradebe <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/08 15:50:35 by nkradebe          #+#    #+#             */
-/*   Updated: 2020/07/08 16:22:14 by nkradebe         ###   ########.fr       */
+/*   Updated: 2020/07/08 16:46:30 by nkradebe         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@ void ft_putchar(char prnt)
 }
 
 
-void ft_print_alphabets(void)
+void ft_print_alphabet(void)
 {
    	char alph;
 	alph = 'a';
