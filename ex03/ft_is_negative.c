@@ -7,12 +7,13 @@ void ft_putchar(char prnt)
 
 void ft_is_negative(int n)
 {
-	char N;
-	char P;
-	if(n < '0')
-		ft_putchar(N);
+	char a = 'N';
+	char b = 'P';
+	if(n < 0)
+		ft_putchar(a);
 	else
-		ft_putchar(P);
+		ft_putchar(b);
 
 		
 }
+
