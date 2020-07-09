@@ -10,7 +10,7 @@ void ft_print_alphabet(void)
 {
    	char alph;
 	alph = 'a';
-			while(alph >= 'a' && alph <= 'z')
+			while( alph <= 'z')
 			{ 
 				ft_putchar(alph);
 				alph += 1;
