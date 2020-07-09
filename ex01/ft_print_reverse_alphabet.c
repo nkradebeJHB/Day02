@@ -10,7 +10,7 @@ void ft_print_reverse_alphabet(void)
 {
    	char alph;
 	alph = 'z';
-			while(alph >= 'a' && alph <= 'z')
+			while(alph >= 'a')
 			{ 
 				ft_putchar(alph);
 				alph -= 1;
